@@ -1,0 +1,12 @@
+{
+  "short_name": "messenger-notification-ui",
+  "name": "Messenger Notification ui",
+  "lang": "en",
+  "start_url": "/",
+  "background_color": "#FFFFFF",
+  "theme_color": "#FFFFFF",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "portrait",
+  "prefer_related_applications": false
+}
